@@ -31,5 +31,5 @@ public class MedicalRecords {
     private String allergies;
 
     @NotBlank
-    private String vaccId;
+    private String vaccination;
 }
